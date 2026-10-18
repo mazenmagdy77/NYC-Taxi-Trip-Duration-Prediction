@@ -1,0 +1,18 @@
+# Python virtual environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Dataset files
+*.csv
+*.zip
+
+# Generated files
+prepared_test.csv
+
+# Jupyter
+.ipynb_checkpoints/
